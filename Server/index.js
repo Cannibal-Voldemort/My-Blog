@@ -8,6 +8,7 @@ import commentRoutes from './routes/comment.route.js';
 import cookieParser from 'cookie-parser';
 import path from 'path';
 
+// to use .env file
 dotenv.config();
 
 mongoose
